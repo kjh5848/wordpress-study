@@ -1,0 +1,20 @@
+.mytory-kakaotalk-openchat-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    background-image: url('./icon-kakaotalk-openchat.webp');
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    display: block;
+    text-indent: -9999px;
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));
+}
+
+@media (min-width: 768px) {
+    .mytory-kakaotalk-openchat-button {
+        bottom: 40px;
+        right: 40px;
+    }
+}

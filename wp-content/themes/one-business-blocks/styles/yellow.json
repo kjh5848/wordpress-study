@@ -1,0 +1,76 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Yellow",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+                "color": "#ffffff",
+                "name": "Base",
+                "slug": "base"
+            },
+            {
+                "color": "#FFBD0A",
+                "name": "Primary",
+                "slug": "primary"
+            },
+            {
+                "color": "#FFF7E0",
+                "name": "Primary Light",
+                "slug": "primary-light"
+            },
+            {
+                "color": "#847B61",
+                "name": "Ternary",
+                "slug": "ternary"
+            },
+            {
+                "color": "#2A2923",
+                "name": "Headings",
+                "slug": "heading"
+            },
+            {
+                "color": "#9F9A8E",
+                "name": "Body Text",
+                "slug": "body-text"
+            },
+            {
+                "color": "#f5f5f5",
+                "name": "Section Background",
+                "slug": "section-bg"
+            },
+            {
+                "color": "#27251E",
+                "name": "Secondary",
+                "slug": "secondary"
+            },
+            {
+                "color": "#ffffff",
+                "name": "Background",
+                "slug": "background"
+            },
+            {
+                "color": "#000000",
+                "name": "Foreground",
+                "slug": "foreground"
+            },
+            {
+                "color":"#53431A",
+                "name": "Footer Bg",
+                "slug": "footer-Bg"
+            },
+            {
+                "color":"#dfdfdf",
+                "name": "Border Color",
+                "slug": "border-color"
+            },
+            {
+                "color":"#a7aaad",
+                "name": "Sidebar Shadow Color",
+                "slug": "sidebar-shadow-color"
+            }
+        ]
+    }
+  }
+}

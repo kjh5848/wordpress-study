@@ -1,0 +1,181 @@
+[2025-03-03 11:56:08][notice]Start restoring themes.
+[2025-03-03 11:56:08][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip
+[2025-03-03 11:56:08][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip succeeded.
+[2025-03-03 11:56:08][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_themes.zip index:0
+[2025-03-03 11:56:13][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_themes.zip index:0 finished.
+[2025-03-03 11:56:13][notice]End restore themes.
+[2025-03-03 11:56:16][notice]Start restoring plugin.
+[2025-03-03 11:56:16][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip
+[2025-03-03 11:56:16][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip succeeded.
+[2025-03-03 11:56:16][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_plugin.zip index:0
+[2025-03-03 11:56:21][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_plugin.zip index:0 finished.
+[2025-03-03 11:56:21][notice]End restore plugin.
+[2025-03-03 11:56:24][notice]Start restoring plugin.
+[2025-03-03 11:56:24][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_plugin.zip index:1000
+[2025-03-03 11:56:25][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_plugin.zip index:1000 finished.
+[2025-03-03 11:56:25][notice]End restore plugin.
+[2025-03-03 11:56:28][notice]Start restoring wp-content.
+[2025-03-03 11:56:28][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip
+[2025-03-03 11:56:28][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip succeeded.
+[2025-03-03 11:56:29][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_content.zip index:0
+[2025-03-03 11:56:30][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_content.zip index:0 finished.
+[2025-03-03 11:56:30][notice]End restore wp-content.
+[2025-03-03 11:56:33][notice]Start restoring upload.
+[2025-03-03 11:56:33][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip
+[2025-03-03 11:56:33][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip succeeded.
+[2025-03-03 11:56:33][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_uploads.zip index:0
+[2025-03-03 11:56:35][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_uploads.zip index:0 finished.
+[2025-03-03 11:56:35][notice]End restore upload.
+[2025-03-03 11:56:38][notice]Start restoring wp-core.
+[2025-03-03 11:56:38][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip
+[2025-03-03 11:56:38][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip succeeded.
+[2025-03-03 11:56:38][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_core.zip
+[2025-03-03 11:57:08][notice]Extracting file:localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_core.zip succeeded.
+[2025-03-03 11:57:09][notice]End restore wp-core.
+[2025-03-03 11:57:18][notice]Start restoring databases.
+[2025-03-03 11:57:18][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip
+[2025-03-03 11:57:18][notice]Extracting file:localhost_wordpress_wpvivid-6613fd564dc08_2024-04-08-21-09_backup_all.zip finished.
+[2025-03-03 11:57:18][notice]Extracting file:C:\MAMP\htdocs\wordpress/wp-content\wpvividbackups\localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_db.zip
+[2025-03-03 11:57:18][notice]Extracting file:C:\MAMP\htdocs\wordpress/wp-content\wpvividbackups\localhost_wordpress_wpvivid-66140a335129f_2024-04-09-00-16_backup_db.zip finished.
+[2025-03-03 11:57:18][notice]End restore databases.
+[2025-03-03 11:57:21][notice]Start restoring databases.
+[2025-03-03 11:57:21][notice]Start restoring sql file offset:0
+[2025-03-03 11:57:21][notice]The test to drop table succeeds.
+[2025-03-03 11:57:21][notice]Drop table if exist tmpea7171_links
+[2025-03-03 11:57:21][notice]Creating table tmpea7171_links
+[2025-03-03 11:57:21][notice]Drop table if exist tmpea7171_term_relationships
+[2025-03-03 11:57:21][notice]Creating table tmpea7171_term_relationships
+[2025-03-03 11:57:21][notice]Drop table if exist tmpea7171_commentmeta
+[2025-03-03 11:57:21][notice]Creating table tmpea7171_commentmeta
+[2025-03-03 11:57:21][notice]Drop table if exist tmpea7171_options
+[2025-03-03 11:57:22][notice]Creating table tmpea7171_options
+[2025-03-03 11:57:23][notice]Drop table if exist tmpea7171_term_taxonomy
+[2025-03-03 11:57:23][notice]Creating table tmpea7171_term_taxonomy
+[2025-03-03 11:57:23][notice]Drop table if exist tmpea7171_termmeta
+[2025-03-03 11:57:23][notice]Creating table tmpea7171_termmeta
+[2025-03-03 11:57:23][notice]Drop table if exist tmpea7171_terms
+[2025-03-03 11:57:23][notice]Creating table tmpea7171_terms
+[2025-03-03 11:57:23][notice]Drop table if exist tmpea7171_usermeta
+[2025-03-03 11:57:23][notice]Creating table tmpea7171_usermeta
+[2025-03-03 11:57:24][notice]Drop table if exist tmpea7171_users
+[2025-03-03 11:57:24][notice]Creating table tmpea7171_users
+[2025-03-03 11:57:24][notice]Drop table if exist tmpea7171_comments
+[2025-03-03 11:57:24][notice]Creating table tmpea7171_comments
+[2025-03-03 11:57:24][notice]Drop table if exist tmpea7171_postmeta
+[2025-03-03 11:57:24][notice]Creating table tmpea7171_postmeta
+[2025-03-03 11:57:25][notice]Drop table if exist tmpea7171_posts
+[2025-03-03 11:57:25][notice]Creating table tmpea7171_posts
+[2025-03-03 11:57:26][notice]Start replacing table tmpea7171_links offset:0
+[2025-03-03 11:57:26][notice]
+[2025-03-03 11:57:26][notice]Counting of rows in tmpea7171_links: 0
+[2025-03-03 11:57:26][notice]End restore databases.
+[2025-03-03 11:57:29][notice]Start restoring databases.
+[2025-03-03 11:57:29][notice]Start replacing table tmpea7171_term_relationships offset:0
+[2025-03-03 11:57:29][notice]
+[2025-03-03 11:57:29][Warning]Skipping table tmpea7171_term_relationships
+[2025-03-03 11:57:29][notice]End restore databases.
+[2025-03-03 11:57:32][notice]Start restoring databases.
+[2025-03-03 11:57:32][notice]Start replacing table tmpea7171_commentmeta offset:0
+[2025-03-03 11:57:32][notice]
+[2025-03-03 11:57:32][notice]Counting of rows in tmpea7171_commentmeta: 0
+[2025-03-03 11:57:32][notice]End restore databases.
+[2025-03-03 11:57:35][notice]Start restoring databases.
+[2025-03-03 11:57:35][notice]Start replacing table tmpea7171_options offset:0
+[2025-03-03 11:57:35][notice]
+[2025-03-03 11:57:35][notice]Counting of rows in tmpea7171_options: 218
+[2025-03-03 11:57:35][notice]Replacing the row in 0 line.
+[2025-03-03 11:57:35][notice]Replacing row completed. Current row:5000
+[2025-03-03 11:57:35][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmpea7171_options Replaced row: 0\/218;"}
+[2025-03-03 11:57:35][notice]End restore databases.
+[2025-03-03 11:57:38][notice]Start restoring databases.
+[2025-03-03 11:57:38][notice]Start replacing table tmpea7171_term_taxonomy offset:0
+[2025-03-03 11:57:38][notice]
+[2025-03-03 11:57:38][notice]Counting of rows in tmpea7171_term_taxonomy: 14
+[2025-03-03 11:57:38][notice]Replacing the row in 0 line.
+[2025-03-03 11:57:38][notice]Replacing row completed. Current row:5000
+[2025-03-03 11:57:38][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmpea7171_term_taxonomy Replaced row: 0\/14;"}
+[2025-03-03 11:57:38][notice]End restore databases.
+[2025-03-03 11:57:40][notice]Start restoring databases.
+[2025-03-03 11:57:40][notice]Start replacing table tmpea7171_termmeta offset:0
+[2025-03-03 11:57:40][notice]
+[2025-03-03 11:57:40][notice]Counting of rows in tmpea7171_termmeta: 0
+[2025-03-03 11:57:40][notice]End restore databases.
+[2025-03-03 11:57:43][notice]Start restoring databases.
+[2025-03-03 11:57:43][notice]Start replacing table tmpea7171_terms offset:0
+[2025-03-03 11:57:43][notice]
+[2025-03-03 11:57:43][notice]Counting of rows in tmpea7171_terms: 14
+[2025-03-03 11:57:43][notice]Replacing the row in 0 line.
+[2025-03-03 11:57:43][notice]Replacing row completed. Current row:5000
+[2025-03-03 11:57:43][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmpea7171_terms Replaced row: 0\/14;"}
+[2025-03-03 11:57:43][notice]End restore databases.
+[2025-03-03 11:57:46][notice]Start restoring databases.
+[2025-03-03 11:57:46][notice]Start replacing table tmpea7171_usermeta offset:0
+[2025-03-03 11:57:46][notice]
+[2025-03-03 11:57:46][notice]Counting of rows in tmpea7171_usermeta: 23
+[2025-03-03 11:57:46][notice]Replacing the row in 0 line.
+[2025-03-03 11:57:46][notice]Replacing row completed. Current row:5000
+[2025-03-03 11:57:46][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmpea7171_usermeta Replaced row: 0\/23;"}
+[2025-03-03 11:57:46][notice]End restore databases.
+[2025-03-03 11:57:48][notice]Start restoring databases.
+[2025-03-03 11:57:48][notice]Start replacing table tmpea7171_users offset:0
+[2025-03-03 11:57:48][notice]
+[2025-03-03 11:57:48][notice]Counting of rows in tmpea7171_users: 1
+[2025-03-03 11:57:48][notice]Replacing the row in 0 line.
+[2025-03-03 11:57:48][notice]Replacing row completed. Current row:5000
+[2025-03-03 11:57:48][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmpea7171_users Replaced row: 0\/1;"}
+[2025-03-03 11:57:48][notice]End restore databases.
+[2025-03-03 11:57:51][notice]Start restoring databases.
+[2025-03-03 11:57:51][notice]Start replacing table tmpea7171_comments offset:0
+[2025-03-03 11:57:51][notice]
+[2025-03-03 11:57:51][notice]Counting of rows in tmpea7171_comments: 0
+[2025-03-03 11:57:51][notice]End restore databases.
+[2025-03-03 11:57:53][notice]Start restoring databases.
+[2025-03-03 11:57:53][notice]Start replacing table tmpea7171_postmeta offset:0
+[2025-03-03 11:57:53][notice]
+[2025-03-03 11:57:54][notice]Counting of rows in tmpea7171_postmeta: 178
+[2025-03-03 11:57:54][notice]Replacing the row in 0 line.
+[2025-03-03 11:57:54][notice]Replacing row completed. Current row:5000
+[2025-03-03 11:57:54][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmpea7171_postmeta Replaced row: 0\/178;"}
+[2025-03-03 11:57:54][notice]End restore databases.
+[2025-03-03 11:57:56][notice]Start restoring databases.
+[2025-03-03 11:57:56][notice]Start replacing table tmpea7171_posts offset:0
+[2025-03-03 11:57:56][notice]
+[2025-03-03 11:57:56][notice]Counting of rows in tmpea7171_posts: 202
+[2025-03-03 11:57:56][notice]Replacing the row in 0 line.
+[2025-03-03 11:57:57][notice]Replacing row completed. Current row:5000
+[2025-03-03 11:57:57][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true,"last_msg":"Importing sql file table: tmpea7171_posts Replaced row: 0\/202;"}
+[2025-03-03 11:57:57][notice]
+[2025-03-03 11:57:57][notice]UPDATE tmpea7171_options SET option_value="http://localhost:81/wordpress" WHERE option_name="siteurl";
+[2025-03-03 11:57:57][notice]update query len:102
+[2025-03-03 11:57:57][notice]UPDATE tmpea7171_options SET option_value="http://localhost:81/wordpress" WHERE option_name="home";
+[2025-03-03 11:57:57][notice]update query len:99
+[2025-03-03 11:57:57][notice]Restore db success
+[2025-03-03 11:57:57][notice]End restore databases.
+[2025-03-03 11:57:59][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2025-03-03 11:57:59][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2025-03-03 11:57:59][notice]DROP TABLE IF EXISTS wp_comments
+[2025-03-03 11:57:59][notice]DROP TABLE IF EXISTS wp_links
+[2025-03-03 11:57:59][notice]DROP TABLE IF EXISTS wp_options
+[2025-03-03 11:57:59][notice]DROP TABLE IF EXISTS wp_postmeta
+[2025-03-03 11:57:59][notice]DROP TABLE IF EXISTS wp_posts
+[2025-03-03 11:57:59][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2025-03-03 11:58:00][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2025-03-03 11:58:00][notice]DROP TABLE IF EXISTS wp_termmeta
+[2025-03-03 11:58:00][notice]DROP TABLE IF EXISTS wp_terms
+[2025-03-03 11:58:00][notice]DROP TABLE IF EXISTS wp_usermeta
+[2025-03-03 11:58:00][notice]DROP TABLE IF EXISTS wp_users
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_commentmeta TO wp_commentmeta
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_comments TO wp_comments
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_links TO wp_links
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_options TO wp_options
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_postmeta TO wp_postmeta
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_posts TO wp_posts
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_term_relationships TO wp_term_relationships
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_term_taxonomy TO wp_term_taxonomy
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_termmeta TO wp_termmeta
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_terms TO wp_terms
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_usermeta TO wp_usermeta
+[2025-03-03 11:58:00][notice]RENAME TABLE tmpea7171_users TO wp_users
+[2025-03-03 20:58:00][notice]Replacing table prefix succeeded.
+[2025-03-03 20:58:00][notice]Delete migration option failed.
+[2025-03-03 20:58:00][notice]Deleting temp files.
